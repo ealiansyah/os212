@@ -1,7 +1,7 @@
 # #####################################################
 # For reminder purpose only
 # #####################################################
-#
+# 
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
