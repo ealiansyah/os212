@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: rgba(255, 255, 255, .87);
+}
+
+a {
+    text-decoration: none;
+}
+
+.main-header {
+    text-align: center;
+    background-color: #121212;
+    filter: contrast(93%);
+    border: 1px #121212;
+    border-style: none solid solid solid;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+    margin-bottom: 5em;
+}
+
+.text-header {
+    color: rgba(255, 255, 255, .9);
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.btn {
+    display: inline-block;
+    margin-bottom: 1em;
+    margin-right: 1em;
+    color: rgba(255, 255, 255, .7);
+    background-color: rgba(255, 255, 255, .08);
+    border-color: rgba(255, 255, 255, .2);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: .3rem;
+    padding: .6rem .9rem;
+    transition: color .4s, background-color .4s, border-color .4s;
+}
+
+.btn:hover {
+    color: rgba(255, 255, 255, .8);
+    text-decoration: none;
+    background-color: rgba(255, 255, 255, .2);
+    border-color: rgba(255, 255, 255, .3);
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    font-size: 1.1em;
+    padding: 1.5em;
+}
+
+.content-header {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.content-container {
+    background-color: #121212;
+    filter: contrast(86%);
+    border: 1px solid #121212;
+    border-radius: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+.text {
+    margin-bottom: 5em;
+}
+
+.main-footer {
+    text-align: center;
+    margin-top: 5em;
+}
+
+.footer-container {
+    background-color: #121212;
+    filter: contrast(93%);
+    border: 1px #121212;
+    border-style: solid solid none solid;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding-bottom: .5em;
+}
+
+.nav-footer img{
+    width: 40px;
+    height: 40px;
+    margin-right: 1em;
+    filter: contrast(20%);
+    transition: .4s;
+}
+
+.nav-footer img:hover {
+    filter: contrast(100%);
+}
+
+.author {
+    text-align: center;
+}
