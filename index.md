@@ -1,7 +1,6 @@
 # Operating Systems 2021-2 (OS212)
 
-| Home | Links | Log | View on Github |
-| ---- | ----- | --- | -------------- |
+| [Home][home] | Links | [Log][log] | [View on Github][repo] |
 
 <p align="justify">
     <br>
@@ -26,9 +25,14 @@
 
 ---
 
-| Github Profile | Mail |
-| -------------- | ---- |
+| [Github Profile][githubProfile] | [Mail][mail] |
 
 <p align="center">
     Ekky Aliansyah &copy; 2021
 </p>
+
+[home]: </os212/index.md>
+[log]: </os212/TXT/mylog.txt>
+[repo]: <https://github.com/ealiansyah/os212>
+[githubProfile]: <https://github.com/ealiansyah>
+[mail]: <mailto:ekky.aliansyah@ui.ac.id>
