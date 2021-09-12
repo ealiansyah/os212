@@ -1,10 +1,8 @@
 <h1 style="text-align: center"> Operating Systems 2021-2 (OS212) </h1>
 
-| <a href="/os212/index.md">Home</a> | Links | <a href="/os212/TXT/mylog.txt" target="_blank">Log</a> | <a href="https://github.com/ealiansyah/os212" target="_blank">View on Github</a> |
+| <a href="/os212/index.md">Home</a> | <a href="/LINKS/">Helpful Links</a> | <a href="/os212/TXT/mylog.txt" target="_blank">Log</a> | <a href="https://github.com/ealiansyah/os212" target="_blank">View on Github</a> |
 
 <div style="text-align: justify">
-    <br>
-    <br>
     <br>
     <h2>About Github Pages</h2>
     <br>
