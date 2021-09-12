@@ -12,6 +12,10 @@ ZCZC W00  90 L15 Assignment #05
 ZCZC W01  25 L84 Relax, Rest, and Sleep
 ZCZC W01  15 L11 Assignment #01
 ZCZC W01 120 L12 Assignment #02
+ZCZC W01  60 L13 Assignment #03
 ZCZC W01  90 L14 Assignment #04
 ZCZC W01  60 L15 Assignment #05
+ZCZC W01  60 L16 Assignment #06
 ZCZC W01  30 L17 Assignment #07
+ZCZC W01  15 L18 Assignment #08
+ZCZC W01  60 L19 Assignment #09
