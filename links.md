@@ -5,7 +5,7 @@ permalink: /LINKS/
 
 <h1 style="text-align: center"> Operating Systems 2021-2 (OS212) </h1>
 
-| <a href="/os212/index.md">Home</a> | <a href="/LINKS/">Helpful Links</a> | <a href="/os212/TXT/mylog.txt" target="_blank">Log</a> | <a href="https://github.com/ealiansyah/os212" target="_blank">View on Github</a> |
+| <a href="/os212/index.md">Home</a> | <a href="/os212/LINKS/">Helpful Links</a> | <a href="/os212/TXT/mylog.txt" target="_blank">Log</a> | <a href="https://github.com/ealiansyah/os212" target="_blank">View on Github</a> |
 
 <br>
 <h2>Helpful Links</h2>
