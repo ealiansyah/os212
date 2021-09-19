@@ -16,6 +16,9 @@ Nano merupakan salah satu text editor yang sudah pre-installed dan bisa digunaka
 2. [Regex 101](https://regex101.com/) <br>
 Salah satu website untuk belajar mempraktikkan regex. Website tersebut memiliki banyak fitur. Website tersebut memiliki beberapa opsi bahasa pemrograman yang bisa dipakai. Website tersebut bisa menjelaskan penggunaan dari regex yang diketikkan. Website tersebut juga mencantumkan petunjuk dasar dalam regex.
 
+3. [How to Set up Visual Studio Code for C and C++ Programming](https://youtu.be/77v-Poud_io) <br>
+Apabila merasa tidak nyaman menjalankan Demo lewat PuTTY, video di atas bisa menjadi solusi. Video di atas menjelaskan cara setup Visual Studio Code agar bisa mengedit dan menjalankan program C dan C++. Setelah setup, kalian bisa mengcopy file Demo lewat SCP atau WINSCP ke Windows directory kalian. Lalu, file demo tersebut bisa kalian edit dan jalankan lewat Visual Studio Code.
+
 
 
 ---
