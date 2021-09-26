@@ -19,6 +19,9 @@ Salah satu website untuk belajar mempraktikkan regex. Website tersebut memiliki 
 3. [How to Set up Visual Studio Code for C and C++ Programming](https://youtu.be/77v-Poud_io) <br>
 Apabila merasa tidak nyaman menjalankan Demo lewat PuTTY, video di atas bisa menjadi solusi. Video di atas menjelaskan cara setup Visual Studio Code agar bisa mengedit dan menjalankan program C dan C++. Setelah setup, kalian bisa mengcopy file Demo lewat SCP atau WINSCP ke Windows directory kalian. Lalu, file demo tersebut bisa kalian edit dan jalankan lewat Visual Studio Code.
 
+4. [Linux File Hierarchy Structure](https://youtu.be/HbgzrKJvDRw) <br>
+Apabila melihat folder apa saja di luar /root, kalian akan melihat berbagai macam folder seperti /bin, /boot, /dev, /lib, dll. Pada link di atas, video tersebut akan menjelaskan apa kegunaan masing dari folder-folder tersebut. Penjelasan pada video tersebut singkat dan tersedia juga timestamp untuk memudahkan mencari penjelasan kegunaan folder-folder di Linux.
+
 
 
 ---
