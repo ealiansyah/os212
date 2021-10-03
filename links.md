@@ -22,6 +22,8 @@ Apabila merasa tidak nyaman menjalankan Demo lewat PuTTY, video di atas bisa men
 4. [Linux File Hierarchy Structure](https://youtu.be/HbgzrKJvDRw) <br>
 Apabila melihat folder apa saja di luar /root, kalian akan melihat berbagai macam folder seperti /bin, /boot, /dev, /lib, dll. Pada link di atas, video tersebut akan menjelaskan apa kegunaan masing dari folder-folder tersebut. Penjelasan pada video tersebut singkat dan tersedia juga timestamp untuk memudahkan mencari penjelasan kegunaan folder-folder di Linux.
 
+5. [Memory Management](https://youtu.be/qdkxXygc3rE) <br>
+Video berdurasi sembilan menit tersebut menjelaskan bagaimana management pada main memory dengan visualisasi yang mudah untuk dipahami. Mulai dari menggunakan Single User Contiguous, Fixed Partitions, sampai Dynamic Partitions. Video tersebut juga menyinggung tentang Paging dan Segmented Memory Allocation secara singkat. Isi dari video tersebut menjelaskan secara singkat apa yang ada pada chapter 9 bagian 9.2 dan 9.3 buku Operating Systems Silberschatz.
 
 
 ---
