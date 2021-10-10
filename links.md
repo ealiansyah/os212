@@ -25,6 +25,8 @@ Apabila melihat folder apa saja di luar /root, kalian akan melihat berbagai maca
 5. [Memory Management](https://youtu.be/qdkxXygc3rE) <br>
 Video berdurasi sembilan menit tersebut menjelaskan bagaimana management pada main memory dengan visualisasi yang mudah untuk dipahami. Mulai dari menggunakan Single User Contiguous, Fixed Partitions, sampai Dynamic Partitions. Video tersebut juga menyinggung tentang Paging dan Segmented Memory Allocation secara singkat. Isi dari video tersebut menjelaskan secara singkat apa yang ada pada chapter 9 bagian 9.2 dan 9.3 buku Operating Systems Silberschatz.
 
+6. [Page Replacement Algorithms](https://www.youtube.com/playlist?list=PL55ywj5PjY95F_3LK9w0B_KdIHmiH9POO) <br>
+Playlist video yang menjelaskan algoritma-algoritma page replacement. Terdapat algoritma page replacement FIFO, LRU, dan Optimal. Video tersebut akan bisa membantu kalian apabila masih kurang paham terhadap penjelasan yang ada pada buku Operating Systems Concepts karangan Abraham Silberschatz, dkk. pada chapter 10.4. Selain itu, video tersebut dapat membantu kalian dalam menyelesaikan soal-soal terkait berapa page faults yang bisa terjadi pada algoritma FIFO, LRU, dan Optimal page replacement.
 
 ---
 
