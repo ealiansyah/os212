@@ -28,6 +28,9 @@ Video berdurasi sembilan menit tersebut menjelaskan bagaimana management pada ma
 6. [Page Replacement Algorithms](https://www.youtube.com/playlist?list=PL55ywj5PjY95F_3LK9w0B_KdIHmiH9POO) <br>
 Playlist video yang menjelaskan algoritma-algoritma page replacement. Terdapat algoritma page replacement FIFO, LRU, dan Optimal. Video tersebut akan bisa membantu kalian apabila masih kurang paham terhadap penjelasan yang ada pada buku Operating Systems Concepts karangan Abraham Silberschatz, dkk. pada chapter 10.4. Selain itu, video tersebut dapat membantu kalian dalam menyelesaikan soal-soal terkait berapa page faults yang bisa terjadi pada algoritma FIFO, LRU, dan Optimal page replacement.
 
+7. [Understanding fork()](https://youtube.com/playlist?list=PL55ywj5PjY96RBNGyzuobsoBNKDjAClu7) <br>
+Playlist video tentang penjelasan fork(). Apabila masih kurang paham tentang fork(), video-video tersebut bisa membantu pemahaman sekaligus cara kerja fork(). Dua video pertama dalam playlist tersebut akan menjelaskan apa itu fork() dan bagaimana kerja fork() secara singkat. Lalu, video-video selanjutnya akan menjelaskan lebih detail lagi tentang fork(). Playlist tersebut juga bisa membantu kalian dalam mengerjakan soal-soal terkait fork().
+
 ---
 
 <br>
