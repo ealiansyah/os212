@@ -31,6 +31,9 @@ Playlist video yang menjelaskan algoritma-algoritma page replacement. Terdapat a
 7. [Understanding fork()](https://youtube.com/playlist?list=PL55ywj5PjY96RBNGyzuobsoBNKDjAClu7) <br>
 Playlist video tentang penjelasan fork(). Apabila masih kurang paham tentang fork(), video-video tersebut bisa membantu pemahaman sekaligus cara kerja fork(). Dua video pertama dalam playlist tersebut akan menjelaskan apa itu fork() dan bagaimana kerja fork() secara singkat. Lalu, video-video selanjutnya akan menjelaskan lebih detail lagi tentang fork(). Playlist tersebut juga bisa membantu kalian dalam mengerjakan soal-soal terkait fork().
 
+8. [Worked Examples: Semaphore](https://youtu.be/3KJeK-UUADA) <br>
+Video yang menjelaskan secara sederhana tentang bagaimana cara kerja Semaphore beserta dengan contoh kasus-kasus sederhana dalam penerapannya. Video tersebut berdurasi kurang dari delapan menit karena penjelasannya yang sederhana dan langsung kepada intinya sehingga penjelasannya cukup mudah untuk dipahami.
+
 ---
 
 <br>
