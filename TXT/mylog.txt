@@ -80,3 +80,15 @@ ZCZC W07  45 L15 Assignment #05
 ZCZC W07  45 L17 Assignment #07
 ZCZC W07  10 L18 Assignment #08
 ZCZC W07  15 L19 Assignment #09
+ZCZC W08  25 L84 Relax, Rest, and Sleep
+ZCZC W08 180 L64 Helping OS related problem to a friend.
+ZCZC W08  30 L11 Assignment #01
+ZCZC W08  15 L12 Assignment #02
+ZCZC W08  30 L13 Assignment #03
+ZCZC W08 120 L14 Assignment #04
+ZCZC W08 180 L15 Assignment #05
+ZCZC W08 180 L31 VirtualBox: install Linux From Scratch 11.0 Chapter 06
+ZCZC W08  30 L17 Assignment #06
+ZCZC W08  30 L18 Assignment #08
+ZCZC W08  15 L19 Assignment #09
+ZCZC W08  15 L20 Assignment #10
