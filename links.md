@@ -34,6 +34,9 @@ Playlist video tentang penjelasan fork(). Apabila masih kurang paham tentang for
 8. [Worked Examples: Semaphore](https://youtu.be/3KJeK-UUADA) <br>
 Video yang menjelaskan secara sederhana tentang bagaimana cara kerja Semaphore beserta dengan contoh kasus-kasus sederhana dalam penerapannya. Video tersebut berdurasi kurang dari delapan menit karena penjelasannya yang sederhana dan langsung kepada intinya sehingga penjelasannya cukup mudah untuk dipahami.
 
+9. [CPU and I/O Burst Cycles](https://youtu.be/pVzb3TUcDLo) <br>
+Video tersebut menjelaskan konsep dasar pada CPU scheduling, yaitu CPU Burst dan I/O Burst Cycles. Penjelasan pada video tersebut singkat dan menjelaskan inti dari konsep CPU Burst dan I/O Burst Cycles. Penting sekali untuk mengetahui hal tersebut terlebih dahulu sebelum mempelajari lebih lanjut mengenai CPU scheduling. Implementasi CPU Burst dan I/O Burst Cycles juga terdapat pada [Two State Model](https://t4tutorials.com/two-state-process-model-in-operating-systems/).
+
 ---
 
 <br>
