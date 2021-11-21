@@ -37,6 +37,9 @@ Video yang menjelaskan secara sederhana tentang bagaimana cara kerja Semaphore b
 9. [CPU and I/O Burst Cycles](https://youtu.be/pVzb3TUcDLo) <br>
 Video tersebut menjelaskan konsep dasar pada CPU scheduling, yaitu CPU Burst dan I/O Burst Cycles. Penjelasan pada video tersebut singkat dan menjelaskan inti dari konsep CPU Burst dan I/O Burst Cycles. Penting sekali untuk mengetahui hal tersebut terlebih dahulu sebelum mempelajari lebih lanjut mengenai CPU scheduling. Implementasi CPU Burst dan I/O Burst Cycles juga terdapat pada [Two State Model](https://t4tutorials.com/two-state-process-model-in-operating-systems/).
 
+10. [Structure of Hard Disk Drive (HDD)](https://youtu.be/oEORcCQ62nQ) <br>
+Video yang menjelaskan struktur dari Hard Disk Drive itu sendiri. Video tersebut menjelaskan bagian-bagian dari HDD mulai dari platter/surfaces, track, cylinder, sector, cluster, spindle, sampai read-write head. Video ini juga sebagai pelengkap dari penjelasan yang ada pada [slides](https://www.os-book.com/OS10/slide-dir/PPTX-dir/ch11.pptx) page 5 apabila masih belum mengerti. Penjelasan pada video tersebut setidaknya juga bisa memberi gambaran atau membantu dalam menjawab beberapa [soal](https://rms46.vlsm.org/2/204.pdf) terkait struktur hard disk.
+
 ---
 
 <br>
